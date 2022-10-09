@@ -1,4 +1,0 @@
-(sym_lib_table
-  (lib (name "WS2812B-2020")(type "KiCad")(uri "C:/Users/jorge/Desktop/Projects/PCBs/PantallaPOV/WS2812B-2020/WS2812B-2020.kicad_sym")(options "")(descr ""))
-  (lib (name "NodeMCU-ESP32")(type "KiCad")(uri "C:/Users/jorge/Desktop/Projects/PCBs/PantallaPOV/NodeMCU ESP32/NodeMCU-ESP32.kicad_sym")(options "")(descr ""))
-)

@@ -1,4 +1,0 @@
-(fp_lib_table
-  (lib (name "WS2812-2020")(type "KiCad")(uri "C:/Users/jorge/Desktop/Projects/PCBs/PantallaPOV/WS2812B-2020/WS2812-2020.pretty")(options "")(descr ""))
-  (lib (name "NodeMCU_ESP32")(type "KiCad")(uri "C:/Users/jorge/Desktop/Projects/PCBs/PantallaPOV/NodeMCU ESP32/NodeMCU_ESP32.pretty")(options "")(descr ""))
-)
